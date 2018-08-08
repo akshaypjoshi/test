@@ -1,0 +1,19 @@
+{
+    "name": "akshaypjoshi/test",
+    "description": "For Testing purpose",
+    "type": "extension",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "akshaypjoshi",
+            "email": "akshaypjoshi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+          "psr-4": {
+              "akshay\\test\\": "src"
+          }
+     }
+}
